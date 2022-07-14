@@ -14,6 +14,7 @@ Automação de fluxo de compra em E-Commerce, utilizando page objects para detec
 - `BDD`
 - `Cucumber`
 - `JavaScript`
+- `Guerkin`
 
 ## 📁 Acesso ao projeto
 <p>Você pode acessar os arquivos do projeto clicando <a href="https://github.com/marcellasan/projeto-automatizado-cypress/tree/master/cypress">aqui</a>.</p>

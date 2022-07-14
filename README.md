@@ -1,8 +1,7 @@
 # Projeto de automação de Testes em Selenium 
 
 ## Resumo do Projeto
-Automação de fluxo de compra em E-Commerce, utilizando page objects para detectar elementos e suas ações
-projeto com Metodologia BDD, utilizando a ferramento Cucumber
+Automação de fluxo de compra em E-Commerce, utilizando page objects para detectar elementos e suas ações.
 
 ## :hammer: Funcionalidades do projeto
 
